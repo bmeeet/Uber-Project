@@ -88,11 +88,3 @@ You can install required Python packages using:
 ```bash
 pip install -r requirements.txt
 ```
-
-## 📬 Contact
-
-For questions or collaborations, please contact:
-
-**Meet Bhatt**  
-📧 your.email@example.com  
-🌐 [LinkedIn Profile](https://linkedin.com/in/your-profile)
